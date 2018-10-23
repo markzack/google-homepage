@@ -1,0 +1,1 @@
+This is my first project involving HTML/CSS on Odin Web Development Curiculum
